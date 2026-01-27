@@ -1,0 +1,16 @@
+# Calculator using user input of two numbers
+# Improved version after learning typecasting and input
+a=input("Enter the first number: ")
+b=input("Enter the second number: ")
+add=(float(a)+float(b))
+sub=(float(a)-float(b))
+multi=(float(a)*float(b))
+divi=(float(a)/float(b))
+Remainder=(float(a)%float(b))
+floor_division=(float(a)//float(b))
+print("\nThe addition of the numbers is:",add)
+print("The subtraction of the numbers is:",sub)
+print("The multiplication of the numbers is:",multi)
+print("The division of the numbers is:",divi)
+print("The remainder after the division is:",Remainder)
+print("The ans of floor divison is:",floor_division)
