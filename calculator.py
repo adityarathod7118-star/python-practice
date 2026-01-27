@@ -16,6 +16,6 @@ print("The division of a by b is:",divi)
 remainder=a%b
 print("\nThe remainder of the division is:",remainder)
 
-# Floor divisio operator is used to remove the deimal part of the answer after division
+# Floor division operator is used to remove the decimal part of the answer after division
 FD=a//b
 print("\nThe division of a and b here is:",FD)
