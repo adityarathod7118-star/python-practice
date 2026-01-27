@@ -2,8 +2,9 @@
 a=input("Enter a number:")
 print(a)
 
-# Whatever we enter in the input functio it is enterd in the form of string 
-# So in order to perform operation we have to first perform the typecasting 
+# Whatever we enter in the input function it is considered in the form of string 
+# So in order to perform operation we have to first perform the typecasting to bring it in valid form
+
 x=input("Enter the first number: ")
 y=input("Enter the second number: ")
 sum=(int(x)+int(y))
